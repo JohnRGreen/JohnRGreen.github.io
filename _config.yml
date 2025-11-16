@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   5th year student in the Ph.D. Economics program at Johns Hopkins University.
 twitter_username: JohnGreenEcon
 github_username: JohnRGreen
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: "sunrise"
 search: true
 
 # Build settings
