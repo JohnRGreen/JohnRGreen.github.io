@@ -1,0 +1,6 @@
+This is a placeholder for the CV PDF file.
+
+To add your CV:
+1. Replace this file with your actual CV PDF
+2. Name it "cv.pdf" or update the reference in _pages/cv.md
+3. The file should be placed in assets/pdf/ directory
