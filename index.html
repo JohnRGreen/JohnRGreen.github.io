@@ -5,7 +5,8 @@
 layout: single
 author_profile: true
 title: "About"
----
 # {% include about-content.md %}
+---
+
 {% capture about_content %}{% include about-content.md %}{% endcapture %}
 {{ about_content | markdownify }}
