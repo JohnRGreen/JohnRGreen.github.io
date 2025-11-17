@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: JohnGreenEcon
 github_username: JohnRGreen
 minimal_mistakes_skin: "sunrise"
+# Force rebuild: 2025-01-27-v1  # <- Add this line
 search: true
 
 # Build settings
