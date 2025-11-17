@@ -18,5 +18,3 @@ title: "Curriculum Vitae"
 </div>
 
 ---
-
-**Note:** To add your CV, place your PDF file at `/assets/pdf/cv.pdf` in the repository.
