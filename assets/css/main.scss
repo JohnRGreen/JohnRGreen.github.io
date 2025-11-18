@@ -27,36 +27,36 @@
 // }
 
 
-// .page__content {
-//   @include breakpoint($large) {
-//     float: right;
-//     width: 90%;  // wider
-//   }
-//   @include breakpoint($x-large) {
-//     width: 95%;  // this handles larger screens -- not sure why it's only large and xlarge?
-//   }
-// }
-// // wider page
-// .page {
-//   @include breakpoint($x-large) {
-//     max-width: 1400px;  
-//   }
-// }
+.page__content {
+  @include breakpoint($large) {
+    float: right;
+    width: 90% !important;  // wider
+  }
+  @include breakpoint($x-large) {
+    width: 95% !important;  // this handles larger screens -- not sure why it's only large and xlarge?
+  }
+}
+// wider page
+.page {
+  @include breakpoint($x-large) {
+    max-width: 1400px !important;  
+  }
+}
 
 // try targeting container
-article.page {
-  @include breakpoint($large) {
-    width: 100% !important;
-    max-width: 1400px !important;
-  }
-}
+// article.page {
+//   @include breakpoint($large) {
+//     width: 100% !important;
+//     max-width: 1400px !important;
+//   }
+// }
 
-// inner content
-.page__inner-wrap {
-  @include breakpoint($large) {
-    width: 100% !important;
-  }
-}
+// // inner content
+// .page__inner-wrap {
+//   @include breakpoint($large) {
+//     width: 100% !important;
+//   }
+// }
 
 
 //  text smaller
