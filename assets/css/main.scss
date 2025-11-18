@@ -25,24 +25,24 @@
 //     padding-right: $right-sidebar-width;
 //   }
 // }
-.page__content {
-  @include breakpoint($large) {
-    float: right;
-    width: 75%;  // wider
-  }
-  @include breakpoint($x-large) {
-    width: 80%;  // this handles larger screens -- not sure why it's only large and xlarge?
-  }
-}
-// wider page
-.page {
-  @include breakpoint($x-large) {
-    max-width: 1400px;  // Or even 1600px if you want
-  }
-}
+// .page__content {
+//   @include breakpoint($large) {
+//     float: right;
+//     width: 75%;  // wider
+//   }
+//   @include breakpoint($x-large) {
+//     width: 80%;  // this handles larger screens -- not sure why it's only large and xlarge?
+//   }
+// }
+// // wider page
+// .page {
+//   @include breakpoint($x-large) {
+//     max-width: 1400px;  // Or even 1600px if you want
+//   }
+// }
 
 
 //  text smaller
 body {
-  font-size: 15.5px; // Default is 16px
+  font-size: 18px; // Default is 16px
 }
