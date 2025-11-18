@@ -7,7 +7,13 @@
 @import "minimal-mistakes/skins/sunrise";
 @import "minimal-mistakes";
 
+// Make picture bigger, not a circle
 .author__avatar img {
   max-width: 250px; // Increase from default ~110px
   border-radius: 10px !important;
+}
+
+//  text smaller
+body {
+  font-size: 14px; // Default is 16px
 }
