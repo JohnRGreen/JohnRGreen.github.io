@@ -13,7 +13,20 @@
   border-radius: 10px !important;
 }
 
+// Make the main content area wider
+.page {
+  @include breakpoint($large) {
+    width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-right: $right-sidebar-width-narrow;
+  }
+
+  @include breakpoint($x-large) {
+    width: calc(100% - #{$right-sidebar-width});
+    padding-right: $right-sidebar-width;
+  }
+}
+
 //  text smaller
 body {
-  font-size: 14px; // Default is 16px
+  font-size: 15px; // Default is 16px
 }
