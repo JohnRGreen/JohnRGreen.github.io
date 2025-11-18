@@ -10,7 +10,7 @@ I owe a large debt to the wonderful professors I had as an undergraduate at La S
 
 ### Teaching assistantships
 
-I have served as a teaching assistant (TA) for several courses while a graduate student at JHU. In Fall 2023, I was TA for Elements of Microecomics for Professor Muhammad Husain; the materials I prepared for my section [can be found here](https://github.com/JohnRGreen/Elements_of_Micro). In Fall 2024 I was TA for Professor Yujung Hwang's upper-level course on "Race, Gender, and Culture", where I learned a tremendous amount about how to foster active discussion amongst a small group of students, often on hot-button issues such as gender discrimination or cultural assimilation in immigrant communities.
+I have served as a TA for several courses while a graduate student at JHU. In Fall 2023, I was TA for Elements of Microecomics for Professor Muhammad Husain; the materials I prepared for my section [can be found here](https://github.com/JohnRGreen/Elements_of_Micro). In Fall 2024 I was TA for Professor Yujung Hwang's upper-level course on "Race, Gender, and Culture", where I learned a tremendous amount about how to foster active discussion amongst a small group of students, often on hot-button issues such as gender discrimination or cultural assimilation in immigrant communities.
 
 Economists sometimes struggle to communicate the intuition of our discipline and show the connections between class material and students' everyday lives. For this reason, I am particularly fond of serving as a TA for econometrics, which I have done in Spring 2024 (Jonathan Wright; supplementary materials [are here](https://github.com/JohnRGreen/Econometrics)), Spring 2025 (Elena Krasnokutskaya), and Fall 2025 (Lixiong Li).
 
@@ -25,6 +25,6 @@ I have received positive evaluations as a TA, which have resulted in winning the
 
 ### Mentorship
 
-In Fall 2024 I participated in a JHU program called "Teaching K-Ph.D.", where I gave a guest lesson to an AP Economics class at Baltimore Polytechnic High School. The lecture was a gentle introduction to Labor Economics (with a dash of econometrics), structured around the work of Claudia Goldin (who had recently won the Nobel Prize). Those materials (slides and a Jupyter Notebook) [can be found here](https://github.com/JohnRGreen/BaltimorePolyEcon).
+In Fall 2024 I participated in a JHU program called "Teaching K-Ph.D.", where I gave a guest lesson to an AP Economics class at Baltimore Polytechnic High School. The lecture was a gentle introduction to Labor Economics (with a dash of econometrics), structured around the work of Claudia Goldin (who had just won the Nobel prize). Those materials (slides and a Jupyter Notebook) [can be found here](https://github.com/JohnRGreen/BaltimorePolyEcon).
 
 My dissertation involves survey work at a Maryland community college. As part of this partnership, I have mentored several students from the community college as they pursue independent research using some data from my survey. In addition, I serve as graduate student advisor for the the undergraduate honors thesis of Raghav Agarwal on "Measuring the impact of the Key Bridge collapse on public transit use."
