@@ -13,8 +13,12 @@ As a graduate student at Johns Hopkins, I have served as a teaching assistant (T
 
 In general, I think economists can struggle to communicate the intuition of our discipline and show the connections between the textbook theory and the everyday lives of our students. For this reason, I have been particularly fond of serving as a TA for econometrics, which I have done in Spring 2024 (Jonathan Wright), Spring 2025 (Elena Krasnokutskaya), and Fall 2025 (Lixiong Li). The materials I prepared for the Spring 2024 course [can be found here](https://github.com/JohnRGreen/Econometrics).
 
-I have received consistently high ratings as a TA, which have resulted in winning the department TA award for 2023-2024 and 2024-2025:
-1. 
+I have received consistently high ratings as a TA, which have resulted in winning the department TA award for 2023-2024 and 2024-2025. My mean evaluation, with averages for the economics department (dept.) and the Krieger School of Arts and Sciences (KSAS) for comparison, have been:
+
+| Class | Semester | Me | Dept | School |
+| Class | Semester | My rating | Dept. | KSAS |
+| Elements of Microeconomics | Fall 2023 | 4.32 | 3.85 | 4.2 |
+| Econometrics | Fall 2023 | 4.32 | 3.85 | 4.2 |
 
 ### Mentorship
 
