@@ -15,12 +15,12 @@ In general, I think economists can struggle to communicate the intuition of our 
 
 I have received consistently high ratings as a TA, which have resulted in winning the department TA award for 2023-2024 and 2024-2025. My mean evaluation, with averages for the economics department (dept.) and the Krieger School of Arts and Sciences (KSAS) for comparison, have been:
 
-| Class | Semester | Me | Dept | School |
+| Class | Semester | Me | Dept. | KSAS |
 | -------------- | -------------- | --- | --- | --- |
-| Class | Semester | My rating | Dept. | KSAS |
 | Elements of Microeconomics | Fall 2023 | 4.32 | 3.85 | 4.2 |
 | Econometrics | Spring 2024 | 4.75 | 3.98 | 4.24 |
-| Race, Gender, and Culture | Spring 2024 | 4.75 | 3.98 | 4.24 |
+| Race, Gender, and Culture | Fall 2024 | 4.44 | 3.79 | 4.25 |
+<!--- | Econometrics | Spring 2025 |  |  |  | -->
 
 ### Mentorship
 
