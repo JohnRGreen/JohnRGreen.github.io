@@ -14,17 +14,33 @@
 }
 
 // Make the main content area wider
-.page {
-  @include breakpoint($large) {
-    width: calc(105% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
-  }
+// .page {
+//   @include breakpoint($large) {
+//     width: calc(90% - #{$right-sidebar-width-narrow});
+//     padding-right: $right-sidebar-width-narrow;
+//   }
 
+//   @include breakpoint($x-large) {
+//     width: calc(90% - #{$right-sidebar-width});
+//     padding-right: $right-sidebar-width;
+//   }
+// }
+.page__content {
+  @include breakpoint($large) {
+    float: right;
+    width: 75%;  // wider
+  }
   @include breakpoint($x-large) {
-    width: calc(105% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: 80%;  // this handles larger screens -- not sure why it's only large and xlarge?
   }
 }
+// wider page
+.page {
+  @include breakpoint($x-large) {
+    max-width: 1400px;  // Or even 1600px if you want
+  }
+}
+
 
 //  text smaller
 body {
