@@ -19,7 +19,8 @@ I have received consistently high ratings as a TA, which have resulted in winnin
 | -------------- | -------------- | --- | --- | --- |
 | Class | Semester | My rating | Dept. | KSAS |
 | Elements of Microeconomics | Fall 2023 | 4.32 | 3.85 | 4.2 |
-| Econometrics | Fall 2023 | 4.32 | 3.85 | 4.2 |
+| Econometrics | Spring 2024 | 4.75 | 3.98 | 4.24 |
+| Race, Gender, and Culture | Spring 2024 | 4.75 | 3.98 | 4.24 |
 
 ### Mentorship
 
