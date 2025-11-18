@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-wide: true 
+classes: wide 
 ---
 
 ### Philosophy
