@@ -5,13 +5,13 @@ title: "Teaching"
 
 ### Philosophy
 
-I owe a large debt to the wonderful professors I had as an undergraduate at La Salle University, without whom I would not have made it to graduate school. I strive to pay that forward through teaching and mentorship. I love economics, and am committed to creating a safe and inclusive atmosphere where students from all different backgrounds can explore the disipline (and hopefully fall in love with it themselves).
+I owe a large debt to the wonderful professors I had as an undergraduate at La Salle University, without whom I would not have made it to graduate school. I strive to pay that forward through teaching and mentorship. I love economics, and am committed to creating a safe and inclusive atmosphere where students from all different backgrounds can explore the disipline (and hopefully fall in love with it themselves!).
 
 ### Teaching assistantships
 
 I have served as a teaching assistant (TA) for several courses while a graduate student at JHU. In Fall 2023, I was TA for Elements of Microecomics for Professor Muhammad Husain; the materials I prepared for my section [can be found here](https://github.com/JohnRGreen/Elements_of_Micro). In Fall 2024 I was TA for Professor Yujung Hwang's upper-level course on "Race, Gender, and Culture", where I learned a tremendous amount about how to foster active discussion amongst a small group of students, often on hot-button issues such as gender discrimination or cultural assimilation in immigrant communities.
 
-I think economists sometimes struggle to communicate the intuition of our discipline and show the connections between class material and students' everyday lives. For this reason, I am particularly fond of serving as a TA for econometrics, which I have done in Spring 2024 (Jonathan Wright; supplementary materials [are here](https://github.com/JohnRGreen/Econometrics)), Spring 2025 (Elena Krasnokutskaya), and Fall 2025 (Lixiong Li).
+Economists sometimes struggle to communicate the intuition of our discipline and show the connections between class material and students' everyday lives. For this reason, I am particularly fond of serving as a TA for econometrics, which I have done in Spring 2024 (Jonathan Wright; supplementary materials [are here](https://github.com/JohnRGreen/Econometrics)), Spring 2025 (Elena Krasnokutskaya), and Fall 2025 (Lixiong Li).
 
 I have received positive evaluations as a TA, which have resulted in winning the department undergraduate teaching award for 2023-2024 and 2024-2025. My average scores (with averages for the department and the Krieger School of Arts and Sciences (KSAS) for comparison) have been:
 
