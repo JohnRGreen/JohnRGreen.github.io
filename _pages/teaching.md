@@ -25,6 +25,6 @@ I have received positive evaluations as a TA, which have resulted in winning the
 
 ### Mentorship
 
-In Fall 2024 I participated in a special JHU program called "Teaching K-Ph.D.", where I gave a guest lesson to an AP Economics class at Baltimore Polytechnic High School. The lecture was a gentle introduction to Labor Economics (with a dash of econometrics), structured around the work of Claudia Goldin (who had recently won the Nobel Prize). Those materials (slides and a Jupyter Notebook) [can be found here](https://github.com/JohnRGreen/BaltimorePolyEcon).
+In Fall 2024 I participated in a JHU program called "Teaching K-Ph.D.", where I gave a guest lesson to an AP Economics class at Baltimore Polytechnic High School. The lecture was a gentle introduction to Labor Economics (with a dash of econometrics), structured around the work of Claudia Goldin (who had recently won the Nobel Prize). Those materials (slides and a Jupyter Notebook) [can be found here](https://github.com/JohnRGreen/BaltimorePolyEcon).
 
 My dissertation involves survey work at a Maryland community college. As part of this partnership, I have mentored several students from the community college as they pursue independent research using some data from my survey. In addition, I serve as graduate student advisor for the the undergraduate honors thesis of Raghav Agarwal on "Measuring the impact of the Key Bridge collapse on public transit use."
