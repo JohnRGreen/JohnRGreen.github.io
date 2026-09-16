@@ -29,9 +29,9 @@ I have received positive evaluations as a TA, which have resulted in winning the
 | Elements of Microeconomics | Fall 2023 | 4.32 | 3.85 | 4.2 |
 | Econometrics | Spring 2024 | 4.75 | 3.98 | 4.24 |
 | Race, Gender, and Culture | Fall 2024 | 4.44 | 3.79 | 4.25 |
-| Econometrics | Spring 2025 | 4.6 |  |  |
-| Econometrics | Fall 2025 | 4.67 |  |  |
-| Econometrics | Spring 2026 | 4.48 |  |  |
+| Econometrics | Spring 2025 | 4.6 | 4.05 | 4.26 |
+| Econometrics | Fall 2025 | 4.67 | 3.91 | 4.25 |
+| Econometrics | Spring 2026 | 4.48 | - | 4.28 |
 
 ### Mentorship
 
