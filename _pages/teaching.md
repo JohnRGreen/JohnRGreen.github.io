@@ -10,11 +10,11 @@ I owe a large debt to the wonderful professors I had as an undergraduate at La S
 
 ### Solo instruction
 
-In Spring 2026 I designed and taught a course on the economics of higher education, entitled ``Is a College Degree Still Worth It?" 
+In Spring 2026 I designed and taught a course on the economics of higher education, entitled "Is a College Degree Still Worth It?" 
 
-The course was designed for a general audience and included 13 students studying public health, Africana Studies, and other fields. We surveyed the higher education landscape, both in the US and internationally. Using *The Race between Education and Technology* (Goldin \& Katz, 2008) as well as journal and popular news articles we built up the elements of a model of education choice in plain language. We put the pieces of the model together to better understand how economists understand decision-making under uncertainty in the context of higher education.
+The course was designed for a general audience and included 13 students studying public health, Africana Studies, and other fields. We surveyed the higher education landscape, both in the US and internationally. Using *The Race between Education and Technology* (Goldin & Katz, 2008), as well as journal and popular news articles, we built up the elements of a model of education choice in plain language. We put the pieces together to better understand how economists understand decision-making under uncertainty in the context of higher education.
 
-I received an overall rating of 4.67 (out of 5), which compares favorably to the school-wide mean of 4.24 (median 4.0).
+I received an overall rating of 4.67 (out of 5), comparing favorably to the school-wide mean (median) of 4.24 (4.0).
 
 ### As teaching assistant
 
@@ -22,7 +22,7 @@ I have served as a TA for several courses while a graduate student at JHU. In Fa
 
 My favorite part of teaching is helping students find intuition in technical material and connect economics to their everyday lives, something our discipline often struggles to do. For this reason, I am particularly fond of serving as a TA for econometrics, which I have done in Spring 2024 (with Dr. Jonathan Wright; supplementary materials [are here](https://github.com/JohnRGreen/Econometrics)), Spring 2025 (with Dr. Elena Krasnokutskaya), Fall 2025 (with Dr. Lixiong Li), and Spring 2026 (with Dr. Domenico Giannone).
 
-I have received positive evaluations as a TA, which have resulted in winning the department undergraduate teaching award for 2023-24, 2024-25, and 2025-26. My average scores (with averages for the department and the Krieger School of Arts and Sciences (KSAS) for comparison where available) have been:
+I have received positive evaluations as a TA, which have resulted in winning the department undergraduate teaching award for the 2023-24, 2024-25, and 2025-26 sxchool years. My average scores (with averages for the department and the Krieger School of Arts and Sciences (KSAS) for comparison where available) have been:
 
 | Class | Semester | Me | Dept. | KSAS |
 | -------------- | -------------- | --- | --- | --- |
