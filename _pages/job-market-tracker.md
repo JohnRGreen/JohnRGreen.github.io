@@ -4,7 +4,7 @@ title: "JOE Tracker"
 classes: wide
 ---
 
-This page tracks cumulative postings in the American Economic Association's Job Openings for Economists (JOE) listings, organized by academic year.
+This page tracks cumulative postings in the American Economic Association's [Job Openings for Economists](https://www.aeaweb.org/joe/) listings, organized by academic year. These do not represent the full universe of econ jobs.
 
 <div style="height: 720px; width: 100%;">
   <iframe
@@ -25,4 +25,4 @@ This page tracks cumulative postings in the American Economic Association's Job 
 
 ### Credit
 
-I have forked the original [JOE Tracker by Paul Goldsmith-Pinkham]([https://github.com/paulgp/joe-tracker](https://github.com/paulgp/joe-tracker)) and begun updating it for the 2026-27 job market season. The original tracker and design are his; I am simply updating this, and so any errors in this version are mine. The listings come from the [AEA Job Openings for Economists]([https://www.aeaweb.org/joe/](https://www.aeaweb.org/joe/)) and do not represent the full universe of econ jobs.
+I have simply cloned the JOE Tracker from [Paul Goldsmith-Pinkham](https://github.com/paulgp/joe-tracker) and begun updating it for the 2026-27 job market season. The original tracker and design are his, and any errors in this version are mine.
