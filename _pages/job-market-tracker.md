@@ -4,9 +4,9 @@ title: "JOE Tracker"
 classes: wide
 ---
 
-This page tracks cumulative postings in the American Economic Association's [Job Openings for Economists](https://www.aeaweb.org/joe/) listings, organized by academic year. These do not represent the full universe of econ jobs.
+This page tracks cumulative postings in the American Economic Association's [Job Openings for Economists](https://www.aeaweb.org/joe/listings) listings, organized by academic year. These do not represent the full universe of econ jobs.
 
-<div style="height: 720px; width: 100%;">
+<div style="height: 870px; width: 100%;">
   <iframe
     title="Interactive cumulative JOE postings by market week"
     src="{{ '/assets/images/joe-tracker/job_postings_by_week.html' | relative_url }}"
