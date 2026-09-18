@@ -11,5 +11,7 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Job Market Tracker"
+    url: /job-market-tracker/
   - title: "CV"
     url: /cv/
