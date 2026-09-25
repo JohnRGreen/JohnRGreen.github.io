@@ -21,7 +21,7 @@ This page tracks cumulative postings in the American Economic Association's [Job
   <img src="{{ '/assets/images/joe-tracker/job_postings_by_week.png' | relative_url }}" alt="Cumulative JOE postings by market week">
 </noscript>
 
-*Updated through September 18, 2026.* Market week 0 begins on August 1. The chart counts postings by their JOE `Date_Active` date.
+*Updated through September 25, 2026.* Market week 0 begins on August 1. The chart counts postings by their JOE `Date_Active` date.
 
 ### Credit
 
