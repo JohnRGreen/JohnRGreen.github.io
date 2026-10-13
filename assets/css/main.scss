@@ -157,3 +157,11 @@ body {
     max-width: 20rem;
   }
 }
+
+.page__hero-image {
+  display: block;
+  width: 100%;
+  height: clamp(120px, 12vw, 180px);
+  object-fit: cover;
+  object-position: center;
+}
