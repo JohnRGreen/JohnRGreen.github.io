@@ -2,9 +2,9 @@
 permalink: /cv/
 title: "Curriculum Vitae"
 classes: wide
-header:
-  image: /assets/images/banner.png
-  image_description: "Johns Hopkins Homewood campus"
+# header:
+#   image: /assets/images/banner.png
+#   image_description: "Johns Hopkins Homewood campus"
 ---
 
 <!-- <div style="text-align: center; margin-bottom: 20px;">

@@ -2,6 +2,9 @@
 permalink: /job-market-tracker/
 title: "JOE Tracker"
 classes: wide
+# header:
+#   image: /assets/images/banner.png
+#   image_description: "Johns Hopkins Homewood campus"
 ---
 
 This page tracks cumulative postings in the American Economic Association's [Job Openings for Economists](https://www.aeaweb.org/joe/listings) listings, organized by academic year. These do not represent the full universe of econ jobs.

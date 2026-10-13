@@ -2,9 +2,9 @@
 permalink: /teaching/
 title: "Teaching"
 classes: wide 
-header:
-  image: /assets/images/banner.png
-  image_description: "Johns Hopkins Homewood campus"
+# header:
+#   image: /assets/images/banner.png
+#   image_description: "Johns Hopkins Homewood campus"
 ---
 
 ### Philosophy

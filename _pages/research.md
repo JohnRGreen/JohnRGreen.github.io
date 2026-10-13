@@ -2,9 +2,9 @@
 permalink: /research/
 title: "Research"
 classes: wide
-header:
-  image: /assets/images/banner.png
-  image_description: "Johns Hopkins Homewood campus"
+# header:
+#   image: /assets/images/banner/peabody.png
+#   image_description: "Johns Hopkins Homewood campus"
 ---
 
 ### Works in progress
@@ -12,7 +12,7 @@ header:
 <div class="research-list">
   <section class="research-paper" aria-labelledby="research-jmp">
     <div class="research-paper__image">
-      <img src="{{ '/assets/images/jmp-pic.png' | relative_url }}" alt="Density curves of students' beliefs about completing a four-year degree" width="1800" height="1200" loading="lazy">
+      <img src="{{ '/assets/images/research-pics/jmp-pic.png' | relative_url }}" alt="Density curves of students' beliefs about completing a four-year degree" width="1800" height="1200" loading="lazy">
     </div>
     <div class="research-paper__body">
       <p class="research-paper__number">01 / Job market paper</p>
@@ -24,7 +24,7 @@ header:
 
   <section class="research-paper" aria-labelledby="research-pivot">
     <div class="research-paper__image">
-      <img src="{{ '/assets/images/pivot-pic.png' | relative_url }}" alt="Diagram of the shift in marginal tax rates between 1983 and 2019" width="864" height="662" loading="lazy">
+      <img src="{{ '/assets/images/research-pics/pivot-pic.png' | relative_url }}" alt="Diagram of the shift in marginal tax rates between 1983 and 2019" width="864" height="662" loading="lazy">
     </div>
     <div class="research-paper__body">
       <p class="research-paper__number">02 / Work in progress</p>
@@ -36,7 +36,7 @@ header:
 
   <section class="research-paper" aria-labelledby="research-me">
     <div class="research-paper__image">
-      <img src="{{ '/assets/images/me-pic.png' | relative_url }}" alt="Illustration of effects of controlling for measurement error" width="318" height="248" loading="lazy">
+      <img src="{{ '/assets/images/research-pics/me-pic.png' | relative_url }}" alt="Illustration of effects of controlling for measurement error" width="318" height="248" loading="lazy">
     </div>
     <div class="research-paper__body">
       <p class="research-paper__number">03 / Work in progress</p>
@@ -47,7 +47,7 @@ header:
 
   <section class="research-paper" aria-labelledby="research-combo">
     <div class="research-paper__image">
-      <img src="{{ '/assets/images/combo-pic.png' | relative_url }}" alt="Illustrative curves for a method of recovering wages from earnings data" width="318" height="248" loading="lazy">
+      <img src="{{ '/assets/images/research-pics/combo-pic.png' | relative_url }}" alt="Illustrative curves for a method of recovering wages from earnings data" width="318" height="248" loading="lazy">
     </div>
     <div class="research-paper__body">
       <p class="research-paper__number">04 / Work in progress</p>

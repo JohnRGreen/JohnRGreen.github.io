@@ -62,7 +62,7 @@ atom_feed:
 author:
   name   : "John R. Green"
   # avatar : "/assets/images/bio-photo.jpg"
-  avatar : "/assets/images/headshot3.jpg"
+  avatar : "/assets/images/headshots/headshot3.jpg"
   bio    : "I am a PhD candidate at Johns Hopkins University on the 2026-27 academic job market. I am a labor economist working in education, public, and behavioral economics."
   location : "Baltimore, MD"
   email: "jgree199@jh.edu"
@@ -108,6 +108,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # banner
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        image: /assets/images/banner/peabody.png
+        image_description: "Peabody Institute, Johns Hopkins University"
 
 category_archive:
   type: liquid
