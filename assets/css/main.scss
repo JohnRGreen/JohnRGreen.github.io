@@ -13,6 +13,10 @@
   }
 }
 
+.site-title {
+  font-size: 1.15em;
+}
+
 // Make picture bigger, not a circle
 .author__avatar img {
   max-width: 250px; // Increase from default ~110px
@@ -161,7 +165,7 @@ body {
 .page__hero-image {
   display: block;
   width: 100%;
-  height: clamp(120px, 12vw, 180px);
+  height: clamp(150px, 15vw, 225px);
   object-fit: cover;
-  object-position: center;
+  object-position: center 45%;
 }
