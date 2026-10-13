@@ -36,7 +36,7 @@ classes: wide
     <div class="research-paper__body">
       <p class="research-paper__number">03 / Work in progress</p>
       <h4 id="research-combo">Labor Market Outcomes from Workforce Training Programs: An Application of a New Method to Recover Wages Using Administrative Earnings Data</h4>
-      <p class="research-paper__authors">With Wonsik Ko and Su Wang</p>
+      <p class="research-paper__authors">With <a href="https://wonsiks-website.example">Wonsik Ko</a> and Su Wang</p>
     </div>
   </section>
 </div>
