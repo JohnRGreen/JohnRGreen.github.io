@@ -75,6 +75,13 @@ body {
   font-size: 18px; // Default is 16px
 }
 
+// Justify prose across pages and in the author profile.
+.page__content p,
+.author__bio {
+  text-align: justify;
+  hyphens: auto;
+}
+
 // Research page: keep each paper's figure alongside its text when space allows.
 .research-list {
   margin-top: 1.5rem;
@@ -148,12 +155,5 @@ body {
 
   .research-paper__image {
     max-width: 20rem;
-  }
-}
-
-@media (min-width: 901px) {
-  .research-paper__abstract {
-    text-align: justify;
-    hyphens: auto;
   }
 }
