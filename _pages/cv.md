@@ -1,6 +1,7 @@
 ---
 permalink: /cv/
 title: "Curriculum Vitae"
+classes: wide
 ---
 
 <!-- <div style="text-align: center; margin-bottom: 20px;">

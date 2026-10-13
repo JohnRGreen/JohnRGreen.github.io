@@ -8277,3 +8277,17 @@ dialog :link {
 #editorModeSeparator {
   display: none !important;
 }
+
+/* Modified for the CV page: show only the document. */
+:root {
+  --toolbar-height: 0px;
+}
+
+#toolbarContainer,
+#viewsManager {
+  display: none !important;
+}
+
+#outerContainer.viewsManagerOpen #viewerContainer {
+  inset-inline-start: 0 !important;
+}
