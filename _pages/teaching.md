@@ -6,7 +6,7 @@ classes: wide
 
 ### Philosophy
 
-I owe a large debt to the wonderful professors I had as an undergraduate at La Salle University, without whom I would not have made it to graduate school. I strive to pay that forward through teaching and mentorship. I love economics, and am committed to creating a safe and inclusive atmosphere where students from all different backgrounds can explore the discipline (and hopefully fall in love with it themselves!).
+I owe a large debt to the wonderful professors I had as an undergraduate at La Salle University, without whom I would not have made it to graduate school. I strive to pay that forward through teaching and mentorship. I make myself as accessible as possible to my students, meeting and assisting them one-on-one whenever necessary. I love economics, and am committed to creating a safe and inclusive atmosphere where students from all different backgrounds can explore the discipline (and hopefully fall in love with it themselves!).
 
 ### Solo instruction
 
@@ -22,7 +22,7 @@ I have served as a TA for several courses while a graduate student at JHU. In Fa
 
 My favorite part of teaching is helping students find intuition in technical material and connect economics to their everyday lives, something our discipline often struggles to do. For this reason, I am particularly fond of serving as a TA for econometrics, which I have done in Spring 2024 (with Dr. Jonathan Wright; supplementary materials [are here](https://github.com/JohnRGreen/Econometrics)), Spring 2025 (with Dr. Elena Krasnokutskaya), Fall 2025 (with Dr. Lixiong Li), and Spring 2026 (with Dr. Domenico Giannone).
 
-I have received positive evaluations as a TA, which have resulted in winning the department undergraduate teaching award for the 2023-24, 2024-25, and 2025-26 school years. My average scores (with averages for the department and the Krieger School of Arts and Sciences (KSAS) for comparison where available) have been:
+I have received positive evaluations as a TA, which have resulted in winning the department undergraduate teaching award for the 2023-24, 2024-25, and 2025-26 academic years. My average scores (with averages for the department and the Krieger School of Arts and Sciences (KSAS) for comparison where available) have been:
 
 | Class | Semester | Me | Dept. | KSAS |
 | -------------- | -------------- | --- | --- | --- |
@@ -32,6 +32,8 @@ I have received positive evaluations as a TA, which have resulted in winning the
 | Econometrics | Spring 2025 | 4.6 | 4.05 | 4.26 |
 | Econometrics | Fall 2025 | 4.67 | 3.91 | 4.25 |
 | Econometrics | Spring 2026 | 4.48 | - | 4.28 |
+| Labor Economics | Fall 2026 | - | - | - |
+
 
 ### Mentorship
 
