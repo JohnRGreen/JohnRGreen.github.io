@@ -61,7 +61,8 @@ atom_feed:
 
 author:
   name   : "John R. Green"
-  avatar : "/assets/images/bio-photo.jpg"
+  # avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot3.jpg"
   bio    : "I am a PhD candidate at Johns Hopkins University on the 2026-27 academic job market. I am a labor economist specializing in education and public economics."
   location : "Baltimore, MD"
   email: "jgree199@jh.edu"
