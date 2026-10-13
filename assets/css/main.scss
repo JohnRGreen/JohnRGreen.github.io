@@ -76,8 +76,8 @@ body {
 }
 
 // Justify prose across pages and in the author profile.
-.page__content p,
-.author__bio {
+.page__content p{ // ,
+// .author__bio {
   text-align: justify;
   hyphens: auto;
 }
