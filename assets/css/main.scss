@@ -68,3 +68,79 @@
 body {
   font-size: 18px; // Default is 16px
 }
+
+// Research page: keep each paper's figure alongside its text when space allows.
+.research-list {
+  margin-top: 1.5rem;
+}
+
+.research-paper {
+  display: grid;
+  grid-template-columns: minmax(180px, 30%) minmax(0, 1fr);
+  gap: 1.75rem;
+  align-items: start;
+  padding: 1.75rem 0;
+  border-top: 1px solid mix(#000, $background-color, 12%);
+
+  &:last-child {
+    border-bottom: 1px solid mix(#000, $background-color, 12%);
+  }
+}
+
+.research-paper__image {
+  padding: 0.65rem;
+  border: 1px solid mix(#000, $background-color, 10%);
+  border-radius: 0.35rem;
+  background: #fff;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    box-shadow: none;
+  }
+}
+
+.research-paper__body {
+  min-width: 0;
+
+  h4 {
+    margin: 0 0 0.55rem;
+    font-size: 1.15em;
+    line-height: 1.3;
+  }
+}
+
+.research-paper__number {
+  margin: 0 0 0.5rem;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: mix(#000, $text-color, 40%);
+}
+
+.research-paper__abstract,
+.research-paper__authors {
+  margin: 0;
+}
+
+.research-paper__abstract {
+  line-height: 1.65;
+}
+
+.research-paper__authors {
+  color: mix(#000, $text-color, 25%);
+}
+
+@media (max-width: 900px) {
+  .research-paper {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .research-paper__image {
+    max-width: 20rem;
+  }
+}
