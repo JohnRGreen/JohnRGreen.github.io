@@ -23,6 +23,12 @@
   border-radius: 10px !important;
 }
 
+// Make sidebar font a bit bigger:
+.author__bio {
+  font-size: 1em;
+  line-height: 1.4;
+}
+
 // Make the main content area wider
 // .page {
 //   @include breakpoint($large) {
@@ -83,7 +89,7 @@ body {
 .page__content p{ // ,
 // .author__bio {
   text-align: justify;
-  hyphens: auto;
+  hyphens: none;
 }
 
 // Research page: keep each paper's figure alongside its text when space allows.
