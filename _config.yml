@@ -114,7 +114,7 @@ defaults:
       type: pages
     values:
       header:
-        image: /assets/images/banner/peabody.png
+        image: /assets/images/banners/peabody.jpeg
         image_description: "Peabody Institute, Johns Hopkins University"
 
 category_archive:
