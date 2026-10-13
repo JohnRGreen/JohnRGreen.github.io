@@ -1,6 +1,5 @@
+I am a Ph.D. candidate in the Johns Hopkins Economics department. I am on the 2026-27 academic job market.
 
-I am a Ph.D. candidate in the Johns Hopkins Economics department, and am on the 2026-27 academic job market.
+I am a labor economist working in education, public, and behavioral economics. I have a strong interest in econometrics and computational methods, and several of my papers develop and apply new empirical tools. My research agenda is also united by a focus on policy applications, including how information frictions and biases can affect the impact and optimal design of public policies.
 
-I am a labor economist specializing in education and public economics. Methodologically, I am interested in structural modeling and computational methods, along with causal inference and machine learning.
-
-I have a strong interest in subjective expectations and methods for the elicitation of beliefs. As part of my dissertation work, I began a survey on beliefs and expectations at a Maryland community college; the community college survey is entering its third year, and two other survey-based projects in non-community college contexts are in development.
+In my Job Market Paper, *Beliefs and Preferences in Community College*, I present novel survey data on the beliefs and expected outcomes of community college students. I use a variety of methods, including an information experiment and a dynamic discrete choice model, to examine how subjective beliefs influence students' plans and contribute to the high dropout and low transfer rates which characterize the US community college system. Students appear to deviate from the rational expectations benchmark, with meaningful welfare costs.
