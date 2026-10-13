@@ -35,6 +35,7 @@ I have received positive evaluations as a TA, which have resulted in winning the
 | Econometrics | Spring 2025 | 4.6 | 4.05 | 4.26 |
 | Econometrics | Fall 2025 | 4.67 | 3.91 | 4.25 |
 | Econometrics | Spring 2026 | 4.48 | - | 4.28 |
+
 <!-- | Labor Economics | Fall 2026 | - | - | - | -->
 
 I am currently TA for Labor Economics with Professor Muhammad Husain.

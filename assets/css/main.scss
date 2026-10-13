@@ -24,9 +24,19 @@
 }
 
 // Make sidebar font a bit bigger:
-.author__bio {
+.sidebar .author__bio,
+.sidebar .author__urls li {
   font-size: 1em;
   line-height: 1.4;
+}
+
+.sidebar .author__urls a {
+  font-size: inherit;
+}
+
+// And make author name a bit bigger
+.sidebar .author__name {
+  font-size: 1.2em;
 }
 
 // Make the main content area wider
