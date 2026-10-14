@@ -44,6 +44,18 @@
   font-size: 1.2em;
 }
 
+// add a box for the about content
+.about-card {
+  background: #f8f3e9;
+  border: 1px solid rgba(86, 58, 31, 0.15);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(64, 43, 25, 0.08);
+  padding: clamp(1.25rem, 2.5vw, 2rem);
+}
+
+.about-card > :first-child { margin-top: 0; }
+.about-card > :last-child  { margin-bottom: 0; }
+
 // Make the main content area wider
 // .page {
 //   @include breakpoint($large) {
