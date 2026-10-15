@@ -21,7 +21,7 @@ I received an overall rating of 4.67 (out of 5), comparing favorably to the scho
 
 ### As teaching assistant
 
-I have served as a TA for several courses while a graduate student at JHU. In Fall 2023, I was TA for Elements of Microeconomics for Professor Muhammad Husain; the materials I prepared for my section [can be found here](https://github.com/JohnRGreen/Elements_of_Micro). In Fall 2024 I was TA for Professor Yujung Hwang's upper-level course on "Race, Gender, and Culture", where I learned a tremendous amount about how to foster active discussion amongst a small group of students, often on hot-button issues such as gender discrimination or cultural assimilation in immigrant communities. 
+I have served as a TA for several courses while a graduate student at JHU. In Fall 2023, I was a TA for Elements of Microeconomics for Professor Muhammad Husain; the materials I prepared for my section [can be found here](https://github.com/JohnRGreen/Elements_of_Micro). In Fall 2024 I was a TA for Professor Yujung Hwang's upper-level course on "Race, Gender, and Culture", where I learned a tremendous amount about how to foster active discussion amongst a small group of students, often on hot-button issues such as gender discrimination or cultural assimilation in immigrant communities.
 
 My favorite part of teaching is helping students find intuition in technical material and connect economics to their everyday lives, something our discipline often struggles to do. For this reason, I am particularly fond of serving as a TA for undergraduate Econometrics, which I have done in Spring 2024 (with Dr. Jonathan Wright; supplementary materials [are here](https://github.com/JohnRGreen/Econometrics)), Spring 2025 (with Dr. Elena Krasnokutskaya), Fall 2025 (with Dr. Lixiong Li), and Spring 2026 (with Dr. Domenico Giannone).
 
@@ -38,7 +38,7 @@ I have received positive evaluations as a TA, which have resulted in winning the
 
 <!-- | Labor Economics | Fall 2026 | - | - | - | -->
 
-I am currently TA for Labor Economics with Professor Muhammad Husain.
+I am currently a TA for Labor Economics with Professor Muhammad Husain.
 
 ### Mentorship
 

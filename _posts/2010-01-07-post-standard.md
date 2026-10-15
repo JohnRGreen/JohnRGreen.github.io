@@ -15,7 +15,7 @@ Mrs. Darling first heard of Peter when she was tidying up her children's minds. 
 
 <!--more-->
 
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
+This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also been applied:
 
 ```yaml
 excerpt_separator: "<!--more-->"
