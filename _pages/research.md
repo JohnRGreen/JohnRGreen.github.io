@@ -7,6 +7,8 @@ classes: wide
 #   image_description: "Johns Hopkins Homewood campus"
 ---
 
+Broadly speaking, my work focuses on behavioral economics (in particular non-standard beliefs), education and public economics, and applied econometrics. A brief statement on my research agenda, including descriptions of additional projects, [can be found here](https://github.com/JohnRGreen/JobMarketMaterials/blob/main/materials/statements/ResearchStatement.pdf). 
+
 ### Works in progress
 
 <div class="research-list">
@@ -30,6 +32,7 @@ classes: wide
       <p class="research-paper__number">02 / Work in progress</p>
       <h4 id="research-pivot">Labor Supply, Social Welfare, and the Great MTR Pivot in U.S. Tax and Transfer Programs</h4>
       <p class="research-paper__authors">With <a href="https://www.emmakalish.com/home">Emma Kalish</a> and Robert Moffitt</p>
+      <p><a href="https://github.com/JohnRGreen/JobMarketMaterials/blob/main/materials/presentations/MTRPivot.pdf">See slides →</a></p>
     <p class="research-paper__abstract"> Over the past 50 years, marginal tax rates facing those in the low income population who participate in transfer programs have fallen at low earnings levels and correspondingly risen at higher income levels, a phenomenon we term *the Great MTR Pivot*. We first provide a comprehensive accounting of all major transfer and tax credit programs over the period 1983-2019, calculating benefits and marginal tax rates for different combinations of programs and demonstrating how they have evolved. We then construct a static model of labor supply and program participation which takes account of the full range of programs. We calibrate the model to the CPS, fitting the parameters of the model to match reduced form estimates of the causal impact of each program appearing from the literature and the take-up rate of each program from administrative reports. The estimated model provides a unified accounting of all tax and transfer programs, their take-up rates, and their combined effects on labor supply. We use the model to estimate the impact of the Pivot from 1983 to 2019 on labor supply, program participation, and social welfare, using a variety of social welfare metrics. Finally, we construct the counterfactual impacts of alternative revenue-neutral changes in the MTR schedule and of a few quasi-optimal schedules.  Our findings show that the Pivot has increased both labor supply and welfare in the low-income population studied, while simultaneously increasing income and social welfare inequality.</p>
     </div>
   </section>
@@ -41,6 +44,7 @@ classes: wide
     <div class="research-paper__body">
       <p class="research-paper__number">03 / Work in progress</p>
       <h4 id="research-me">Measurement Error in Subjective Beliefs</h4>
+      <p><a href="https://github.com/JohnRGreen/JobMarketMaterials/blob/main/materials/presentations/MeasurementErrorBeliefs.pdf">See slides →</a></p>
     <p class="research-paper__abstract">Beginning with Dominitz and Manski (1996), a large literature has grown which directly elicits subjective expectations. Although it is well known that such data suffer from significant measurement error, the majority of work in this area does not address this. In this paper, I show how an information experiment can be used to flexibly identify measurement error. Control group measurements before and after the placebo treatment provide multiple measurements for the same latent belief, allowing for classical measurement error. By assuming that similar "types" of beliefs (such as full-time earnings at ages 25 and 30) share characteristics of the measurement system, I am able to allow for some forms of non-classical measurement error. I demonstrate the importance of addressing this error with two empirical exercises. First, I show how controlling for measurement error is important in assessing the impacts of the information experiment itself. Second, I show how, conditional on an assumption of stability across waves, an information experiment administered in cross-section allows for more accurate study of belief updating across time.</p>
     </div>
   </section>
@@ -53,6 +57,7 @@ classes: wide
       <p class="research-paper__number">04 / Work in progress</p>
       <h4 id="research-combo">Can Workforce Training Soften the Scarring Effect?</h4>
       <p class="research-paper__authors">With <a href="https://www.wonsikko.com/">Wonsik Ko</a> and Su Wang</p>
+      <p><a href="https://github.com/JohnRGreen/JobMarketMaterials/blob/main/materials/presentations/WorkforceTraining.pdf">See slides →</a></p>
     <p class="research-paper__abstract">Workforce training programs are an affordable and accessible way for workers to develop new skills and improve their labor market prospects. This may be particularly important following job loss: workers who are able to build their human capital after becoming unemployed may be able to avoid the well-known *scarring effect*. Existing evaluations of workforce training programs generally use administrative data, and as a result are typically only able to evaluate the impact on total earnings. This is a serious limitation, since the benefit of a training program depends upon which margin it operates; as we demonstrate, a positive impact on earnings is not even sufficient to show that an intervention is welfare-improving. Recognizing that earnings (the product of hours and wages) places bounds on the range of each component, we utilize machine learning tools to estimate the joint distribution of hours and wages conditional on earnings and a sparse set of shared covariates in an auxiliary dataset. We demonstrate that our method performs well by presenting three out-of-sample (and out-of-dataset) validation exercises replicating previous results. Finally, we apply this method to administrative data from Maryland to study the impact of workforce training programs on the wages and hours of workers who lose their jobs in the COVID-19 recession, overcoming a limitation of previous analyses.</p>
     </div>
   </section>

@@ -9,7 +9,7 @@ classes: wide
 
 ### Philosophy
 
-I owe a large debt to the wonderful professors I had as an undergraduate at La Salle University, without whom I would not have made it to graduate school. I strive to pay that forward through teaching and mentorship. I make myself as accessible as possible to my students, meeting and assisting them one-on-one whenever necessary. I love economics, and am committed to creating a safe and inclusive atmosphere where students from all different backgrounds can explore the discipline (and hopefully fall in love with it themselves!).
+I owe a large debt to the wonderful professors I had as an undergraduate at La Salle University, without whom I would not have made it to graduate school. I strive to pay that forward through teaching and mentorship. I make myself as accessible as possible to my students, meeting and assisting them one-on-one whenever necessary. I love economics, and am committed to creating a safe and inclusive atmosphere where students from all different backgrounds can explore the discipline (and hopefully fall in love with it themselves!). An extended teaching statement [can be found here](https://github.com/JohnRGreen/JobMarketMaterials/blob/main/materials/statements/TeachingStatement.pdf).
 
 ### Solo instruction
 
